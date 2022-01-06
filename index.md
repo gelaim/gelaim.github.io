@@ -11,33 +11,44 @@ I am always interested in discussing Artiﬁcial Intelligence and its inﬂuence
 
 [Linkedin](https://www.linkedin.com/in/gelaim/).
 
+[lattes](http://lattes.cnpq.br/8149102296681094).
 
 # Projects
 
-**under construction**
 
-## Thesis Crafter
+## Thesis Crafter: Artificial Intelligence for document management
 
-Co-founder and CEO.
+[website](https://www.thesiscrafter.com/)(portuguese only)
 
-Best pre-incubation project at Programa Nascer | Campeche, Brazil
+I'm co-founder and CEO.
 
+We have some interesting findings using NLP in brazilian legal documents.
+We can find the structure of legal documents, and evaluate missing information.
 
 ## Sigon Framework
+
+Sigon is a framework for the development of agents as multi-context systems. It is generic and extensible in the sense that it allows modeling agents according to existing architectures or to create new ones, as well as to extend an agent construction with additional features through other contexts and bridge rules.
+
 
 [Main paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417418307000) 
 
 [git](https://github.com/sigon-lang/sigon-lang)
 
+## HackerRank Solutions
+
+This is a [new hobby](https://github.com/gelaim/HackerRank), and doesn't necessarily reflect my skills. Sometimes I just write the first solution with a reasonable time and space complexity. 
+
+
+## Pytorch cookbook
+
+I'm trying to write a [book](https://github.com/gelaim/pytorch-cookbook) about Pytorch or AI in general in portuguese. 
+For now, I want to have a well-organized set of information.
 
 
 ## Road awareness
 
-## HackerRank Solutions
-
-## Pytorch cookbook
-
-
-## NLP in brazilian legal documents
+This is a study on aspects affecting situational awareness of smartphone users in the vicinity of urban traffic.
+A virtual environment is developed to simulate the immersion in the urban environment, 
+free of the inherent dangers of testing in real scenarios.
 
 
