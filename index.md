@@ -25,7 +25,7 @@ I'm co-founder and CEO.
 We have some interesting findings using NLP in brazilian legal documents.
 We can find the structure of legal documents, and evaluate missing information.
 
-## Sigon Framework
+## Sigon Framework: research project
 
 Sigon is a framework for the development of agents as multi-context systems. It is generic and extensible in the sense that it allows modeling agents according to existing architectures or to create new ones, as well as to extend an agent construction with additional features through other contexts and bridge rules.
 
@@ -34,18 +34,18 @@ Sigon is a framework for the development of agents as multi-context systems. It 
 
 [git](https://github.com/sigon-lang/sigon-lang)
 
-## HackerRank Solutions
+## HackerRank Solutions: programming project
 
 This is a [new hobby](https://github.com/gelaim/HackerRank), and doesn't necessarily reflect my skills. Sometimes I just write the first solution with a reasonable time and space complexity. 
 
 
-## Pytorch cookbook
+## Pytorch cookbook: tutorials
 
 I'm trying to write a [book](https://github.com/gelaim/pytorch-cookbook) about Pytorch or AI in general in portuguese. 
 For now, I want to have a well-organized set of information.
 
 
-## Road awareness
+## Road awareness: research project
 
 This is a study on aspects affecting situational awareness of smartphone users in the vicinity of urban traffic.
 A virtual environment is developed to simulate the immersion in the urban environment, 
