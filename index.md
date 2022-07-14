@@ -40,10 +40,10 @@ The framework is developed using JAVA, ANTLR and Maven.
 This is a [new hobby](https://github.com/gelaim/HackerRank), and doesn't necessarily reflect my skills. Sometimes I just write the first solution with a reasonable time and space complexity. 
 All my answers are developed using Python.
 
-## Machine learning, AI and Pytorch
+## Artificial Intelligence, Machine learning, Data Science and Pytorch
 
-In this [project](https://github.com/gelaim/data_science), I'm trying to organize some of my knowledge about several fields of AI. I stared writing about statistics, but now I want to write also about ML and DS. I also have some work using [Pytorch](https://github.com/gelaim/pytorch-cookbook) about Pytorch and AI in general. 
-For now, I want to have a well-organized set of information.
+In this [project](https://github.com/gelaim/data_science), I'm trying to organize some of my knowledge about several fields of AI. I stared writing about statistics, but now I want to write also about ML and DS. I also have some work using Pytorch and AI in general. 
+For now, I want to have a well-organized set of information, but in the future, I want to record some videos about it.
 
 
 ## Road awareness: research project
